@@ -9,7 +9,7 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 ## Table of Contents
 
 - [<b>autoDocstring - Python Docstring Generator</b>](#autodocstring-logo) -
-- [<b>Auto Rename Tag</b>](#auto-rename-tag-logo) -
+- [<b>Auto Rename Tag</b>](#auto-rename-tag) -
 - [<b>Better Comments</b>](#better-comments-logo) - categorize your annotations
 - [<b>Bookmarks</b>](#bookmarks-logo) -
 - [<b>Code Spell Checker</b>](#code-spell-checker-logo) -
@@ -22,7 +22,7 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 - [<b>Prettier - Code formatter</b>](#prettier-logo) -
 - [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#tabnine-logo) -
 - [<b>Todo Tree</b>](#todo-tree-logo) -
-- [<b>YAML</b>](#yaml-logo) -
+- [<b>YAML</b>](#yaml) -
 
 <!--------------------------------------------------->
 
