@@ -1,95 +1,101 @@
-[//]: # "TITLE"
-
 # My Favorite Visual Studio Code Extensions
 
-[STATUS]: # "Required"
-[NOTE]: # "Title must match repository, folder and package manager names - or it may have another, relevant title with the repository, folder, and package manager title next to it in italics and in parentheses."
+Complete list of all my favorite Visual Studio Code extensions that I use all the time.
 
-<!----------------------------------------------------------->
+> This list will be updated on a regular basis as I discover new useful extensions.
 
-[//]: # "BANNER"
-[STATUS]: # "Optional"
-[NOTE]: # "Must not have its own title, must link to local image in current repository, must appear directly after the title."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Table of Contents
 
-[//]: # "BADGES"
-[STATUS]: # "Optional"
-[NOTE]: # "Include badges here"
+- [<b>Better Comments</b>](#better-comments-logo) - categorize your annotations
+- [<b>Bookmarks</b>](#install)
+- [<b>Usage</b>](#usage)
+- [<b>Snippets</b>](#snippets)
+- [<b>Templates</b>](#templates)
+- [<b>Security</b>](#security)
+- [<b>Maintainers</b>](#maintainers)
+- [<b>Thanks</b>](#thanks)
+- [<b>License</b>](#license)
 
-<!----------------------------------------------------------->
+<!--------------------------------------------------->
 
-[//]: # "SHORT DESCRIPTION"
-[STATUS]: # "Required"
-[NOTE]: # "less than 120 characters, match the description in the packager manager's description field, Must match GitHub's description"
+## ![better-comments-logo](images/better-comments.png) Better Comments
 
-<!----------------------------------------------------------->
+[by Aaron Bond](https://aaronbond.co.uk/)
 
-[//]: # "LONG DESCRIPTION"
-[STATUS]: # "Optional"
-[NOTE]: # "Must not have its own title. If any of the folder, repository, or package manager names do not match, there must be a note here as to why."
-[NOTE]: # "This should describe your module in broad terms, generally in just a few paragraphs; more detail of the module's routines or methods, lengthy code examples, or other in-depth material should be given in subsequent sections. Ideally, someone who's slightly familiar with your module should be able to refresh their memory without hitting 'page down'. As your reader continues through the document, they should receive a progressively greater amount of knowledge."
+The Better Comments extension will help you create more human-friendly comments in your code.
+With this extension, you will be able to categorize your annotations into:
 
-<!----------------------------------------------------------->
+- Alerts
+- Queries
+- TODOs
+- Highlights
+- Commented out code can also be styled to make it clear the code shouldn't be there
+- Any other comment styles you'd like can be specified in the settings
+<br>
+<br>
 
-[//]: # "TABLE OF CONTENTS"
-[STATUS]: # "Required; optional for READMEs shorter than 100 lines."
-[NOTE]: # "Must link to all Markdown sections in the file, must start with the next section, must be at least one-depth and capture all ## headings."
+![better-comments-code](images/better-comments-code.png)
 
-<!----------------------------------------------------------->
+[Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-[//]: # "SECURITY"
-[STATUS]: # "Optional"
-[NOTE]: # "May go here if it is important to highlight security concerns."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Bookmarks
 
-[//]: # "BACKGROUND"
-[STATUS]: # "Optional"
-[NOTE]: # "Cover motivation and intellectual provenance (sources of influence). Cover abstract dependencies."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Todo Tree
 
-[//]: # "INSTALL"
-[STATUS]: # "Required by default, optional for documentation repositories."
-[NOTE]: # "Requirements: Code block illustrating how to install.
-Subsections: Dependencies. Required if there are unusual dependencies or dependencies that must be manually installed.
-Suggestions: Link to prerequisite sites for programming language: npmjs, godocs, etc. Include any system-specific information needed for installation. An Updating section would be useful for most packages, if there are multiple versions which the user may interface with."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Code Spell Checker
 
-[//]: # "USAGE"
-[STATUS]: # "Optional"
-[NOTE]: # "Code block illustrating common usage. Cover basic choices that may affect usage."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## HTML End Tag Labels
 
-[//]: # "API"
-[STATUS]: # "Optional"
-[NOTE]: # "Describe exported functions and objects. Describe signatures, return types, callbacks, and events. Cover types covered where not obvious. Describe caveats. If using an external API generator (like go-doc, js-doc, or so on), point to an external API.md file."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Live Server
 
-[//]: # "MAINTAINER(S)"
-[STATUS]: # "Optional"
-[NOTE]: # "List maintainer(s) for a repository, along with one way of contacting them (e.g. GitHub link or email)."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## markdownlint
 
-[//]: # "THANKS"
-[STATUS]: # "Optional"
-[NOTE]: # "Must be called Thanks, Credits or Acknowledgements. State anyone or anything that significantly helped with the development of your project. State public contact hyper-links if applicable."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Material Icon Theme
 
-[//]: # "CONTRIBUTING"
-[STATUS]: # "Required"
-[NOTE]: # "State where users can ask questions. State whether PRs are accepted. List any requirements for contributing; for instance, having a sign-off on commits. Link to a CONTRIBUTING file -- if there is one. Link to a CONTRIBUTING file -- if there is one."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Prettier - Code formatter
 
-[//]: # "LICENSE"
-[STATUS]: # "Required"
-[NOTE]: # "State license full name or identifier, as listed on the SPDX license list. For unlicensed repositories, add UNLICENSED. For more details, add SEE LICENSE IN <filename> and link to the license file. (These requirements were adapted from npm). State license owner. Must be last section."
+<!--------------------------------------------------->
 
-<!----------------------------------------------------------->
+## Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java
+
+<!--------------------------------------------------->
+
+## Markdown Preview Enhanced
+
+<!--------------------------------------------------->
+
+## Auto Rename Tag
+
+<!--------------------------------------------------->
+
+## autoDocstring - Python Docstring Generator
+
+<!--------------------------------------------------->
+
+## GitHub Theme
+
+- I prefer the Dark Default color theme
+
+<!--------------------------------------------------->
+
+## YAML
+
+- YAML Language Support by Red Hat
