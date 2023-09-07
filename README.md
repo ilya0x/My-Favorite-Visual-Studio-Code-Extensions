@@ -1,5 +1,7 @@
 # My Favorite Visual Studio Code Extensions
 
+![banner](images/banner.png)
+
 Complete list of all my favorite Visual Studio Code extensions that I use all the time.
 
 > This list will be updated on a regular basis as I discover new useful extensions.
