@@ -1,4 +1,4 @@
-# My Favorite Visual Studio Code Extensions
+# My Favorite ![vscode-logo](images/vscode-30.png) Visual Studio Code Extensions
 
 ![banner](images/banner.png)
 
