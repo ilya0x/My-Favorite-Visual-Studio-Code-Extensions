@@ -76,11 +76,15 @@ With this extension, you will be able to categorize your annotations into:
 
 <!--------------------------------------------------->
 
-## ![prettier-logo](images/prettier.png) Prettier - Code formatter
+## ![prettier-logo](images/prettier.png) Prettier
+
+- Code formatter
 
 <!--------------------------------------------------->
 
-## ![tabnine-logo](images/tabnine.png) Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java
+## ![tabnine-logo](images/tabnine.png) Tabnine
+
+- AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java
 
 <!--------------------------------------------------->
 
@@ -92,7 +96,9 @@ With this extension, you will be able to categorize your annotations into:
 
 <!--------------------------------------------------->
 
-## ![autodocstring-logo](images/autodocstring.png) autoDocstring - Python Docstring Generator
+## ![autodocstring-logo](images/autodocstring.png) autoDocstring
+
+- Python Docstring Generator
 
 <!--------------------------------------------------->
 
