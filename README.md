@@ -1,6 +1,6 @@
 [//]: # "TITLE"
 
-# Name of Project _(project-folder-name)_
+# My Favorite Visual Studio Code Extensions
 
 [STATUS]: # "Required"
 [NOTE]: # "Title must match repository, folder and package manager names - or it may have another, relevant title with the repository, folder, and package manager title next to it in italics and in parentheses."
@@ -15,9 +15,7 @@
 
 [//]: # "BADGES"
 [STATUS]: # "Optional"
-[NOTE]: # "Comments"
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[NOTE]: # "Include badges here"
 
 <!----------------------------------------------------------->
 
@@ -37,19 +35,6 @@
 [//]: # "TABLE OF CONTENTS"
 [STATUS]: # "Required; optional for READMEs shorter than 100 lines."
 [NOTE]: # "Must link to all Markdown sections in the file, must start with the next section, must be at least one-depth and capture all ## headings."
-
-## Table of Contents
-
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [Badge](#badge)
-- [API](#api)
-- [Maintainers](#maintainers)
-- [Thanks](#thanks)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!----------------------------------------------------------->
 
@@ -106,7 +91,5 @@ Suggestions: Link to prerequisite sites for programming language: npmjs, godocs,
 [//]: # "LICENSE"
 [STATUS]: # "Required"
 [NOTE]: # "State license full name or identifier, as listed on the SPDX license list. For unlicensed repositories, add UNLICENSED. For more details, add SEE LICENSE IN <filename> and link to the license file. (These requirements were adapted from npm). State license owner. Must be last section."
-
-[EXAMPLE]: # "SEE LICENSE IN <a href="https://github.com/ilya0x/Templates-and-Snippets/blob/main/LICENSE.txt">LICENSE.txt</a>"
 
 <!----------------------------------------------------------->
