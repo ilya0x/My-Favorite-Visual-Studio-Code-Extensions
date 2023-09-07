@@ -8,20 +8,20 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 
 ## Table of Contents
 
-- [<b>autoDocstring - Python Docstring Generator</b>](#autodocstring-logo) -
-- [<b>Auto Rename Tag</b>](#auto-rename-tag) -
-- [<b>Better Comments</b>](#better-comments-logo) - categorize your annotations
-- [<b>Bookmarks</b>](#bookmarks-logo) -
-- [<b>Code Spell Checker</b>](#code-spell-checker-logo) -
-- [<b>GitHub Theme</b>](#github-theme-logo) -
-- [<b>HTML End Tag Labels</b>](#html-end-tag-labels-logo) -
-- [<b>Live Server</b>](#live-server-logo) -
-- [<b>markdownlint</b>](#markdownlint-logo) -
-- [<b>Markdown Preview Enhanced</b>](#markdown-preview-enhanced-logo) -
-- [<b>Material Icon Theme</b>](#material-icon-theme-logo) -
-- [<b>Prettier - Code formatter</b>](#prettier-logo) -
-- [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#tabnine-logo) -
-- [<b>Todo Tree</b>](#todo-tree-logo) -
+- [<b>autoDocstring - Python Docstring Generator</b>](#-autodocstring) -
+- [<b>Auto Rename Tag</b>](#-auto-rename-tag) -
+- [<b>Better Comments</b>](#-better-comments) - categorize your annotations
+- [<b>Bookmarks</b>](#-bookmarks) -
+- [<b>Code Spell Checker</b>](#-code-spell-checker) -
+- [<b>GitHub Theme</b>](#-github-theme) -
+- [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) -
+- [<b>Live Server</b>](#-live-server) -
+- [<b>markdownlint</b>](#-markdownlint) -
+- [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
+- [<b>Material Icon Theme</b>](#-material-icon-theme) -
+- [<b>Prettier - Code formatter</b>](#-prettier) -
+- [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#-tabnine) -
+- [<b>Todo Tree</b>](#-todo-tree) -
 - [<b>YAML</b>](#-yaml) -
 
 <!--------------------------------------------------->
