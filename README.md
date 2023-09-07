@@ -22,7 +22,7 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 - [<b>Prettier - Code formatter</b>](#prettier-logo) -
 - [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#tabnine-logo) -
 - [<b>Todo Tree</b>](#todo-tree-logo) -
-- [<b>YAML</b>](#yaml) -
+- [<b>YAML</b>](#-yaml) -
 
 <!--------------------------------------------------->
 
