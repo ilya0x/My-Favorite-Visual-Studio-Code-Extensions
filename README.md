@@ -36,7 +36,7 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 <br>
 
-![better-comments-code](images/better-comments-code.png)
+![better-comments-code](images/better-comments-code-example.png)
 
 [Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
