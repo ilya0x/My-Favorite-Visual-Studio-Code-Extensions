@@ -50,7 +50,7 @@ Visual Studio Code extension to quickly generate docstrings for python functions
 
 ![autodocstring](images/autodocstring-demo.gif)
 
-[Back to Table of Contents](#table-of-contents) | [Back to Top](#my-favorite-vscode-logo-visual-studio-code-extensions)
+[Back to Table of Contents](#table-of-contents) | [Back to Top](#my-favorite-![vscode-logo](images/vscode-30.png)-visual-studio-code-extensions)
 
 <!--------------------------------------------------->
 
