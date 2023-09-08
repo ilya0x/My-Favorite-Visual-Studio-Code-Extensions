@@ -25,28 +25,10 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 - [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#-tabnine) -
 - [<b>Todo Tree</b>](#-todo-tree) -
 - [<b>YAML</b>](#-yaml) -
-
-<!--------------------------------------------------->
-
-## ![better-comments-logo](images/better-comments.png) Better Comments
-
-[by Aaron Bond](https://aaronbond.co.uk/)
-
-[Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-
-The Better Comments extension will help you create more human-friendly comments in your code.
-With this extension, you will be able to categorize your annotations into:
-
-- Alerts
-- Queries
-- TODOs
-- Highlights
-- Commented out code can also be styled to make it clear the code shouldn't be there
-- Any other comment styles you'd like can be specified in the settings
+<br>
 <br>
 <br>
 
-![better-comments-code](images/better-comments-code-example.png)
 
 <!--------------------------------------------------->
 
@@ -73,6 +55,29 @@ Visual Studio Code extension to quickly generate docstrings for python functions
 ## ![auto-rename-tag-logo](images/auto-rename-tag.png) Auto Rename Tag
 
 <!--------------------------------------------------->
+
+## ![better-comments-logo](images/better-comments.png) Better Comments
+
+[by Aaron Bond](https://aaronbond.co.uk/)
+
+[Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+The Better Comments extension will help you create more human-friendly comments in your code.
+With this extension, you will be able to categorize your annotations into:
+
+- Alerts
+- Queries
+- TODOs
+- Highlights
+- Commented out code can also be styled to make it clear the code shouldn't be there
+- Any other comment styles you'd like can be specified in the settings
+<br>
+<br>
+
+![better-comments-code](images/better-comments-code-example.png)
+
+<!--------------------------------------------------->
+
 ## ![bookmarks-logo](images/bookmarks.png) Bookmarks
 
 <!--------------------------------------------------->
