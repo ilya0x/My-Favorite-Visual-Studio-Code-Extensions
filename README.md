@@ -54,6 +54,18 @@ Visual Studio Code extension to quickly generate docstrings for python functions
 
 ## ![auto-rename-tag-logo](images/auto-rename-tag.png) Auto Rename Tag
 
+[by Jun Han](https://github.com/formulahendry)
+
+[Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+
+- When you rename one HTML/XML tag, automatically rename the paired HTML/XML tag.
+<br>
+<br>
+
+![auto-rename-tag](images/auto-rename-tag-demo.gif)
+
 <!--------------------------------------------------->
 
 ## ![better-comments-logo](images/better-comments.png) Better Comments
