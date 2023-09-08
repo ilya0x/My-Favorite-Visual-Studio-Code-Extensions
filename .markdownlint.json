@@ -2,6 +2,7 @@
     "MD033": {
       "allowed_elements": [
         "b",
+        "i",
         "br"
       ]
     }
