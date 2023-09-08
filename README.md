@@ -10,21 +10,38 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 
 ## Table of Contents
 
-- [<b>autoDocstring - Python Docstring Generator</b>](#-autodocstring) -
-- [<b>Auto Rename Tag</b>](#-auto-rename-tag) -
-- [<b>Better Comments</b>](#-better-comments) - categorize your annotations
-- [<b>Bookmarks</b>](#-bookmarks) -
-- [<b>Code Spell Checker</b>](#-code-spell-checker) -
-- [<b>GitHub Theme</b>](#-github-theme) -
-- [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) -
-- [<b>Live Server</b>](#-live-server) -
-- [<b>markdownlint</b>](#-markdownlint) -
-- [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
-- [<b>Material Icon Theme</b>](#-material-icon-theme) -
-- [<b>Prettier - Code formatter</b>](#-prettier) -
-- [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#-tabnine) -
-- [<b>Todo Tree</b>](#-todo-tree) -
-- [<b>YAML</b>](#-yaml) -
+- [<b>Background</b>](#background)
+- <b>Extensions:</b>
+    - [<b>autoDocstring - Python Docstring Generator</b>](#-autodocstring) - quickly generate docstrings for python functions
+    - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired HTML/XML tag
+    - [<b>Better Comments</b>](#-better-comments) - categorize your annotations
+    - [<b>Bookmarks</b>](#-bookmarks) -
+    - [<b>Code Spell Checker</b>](#-code-spell-checker) -
+    - [<b>GitHub Theme</b>](#-github-theme) -
+    - [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) -
+    - [<b>Live Server</b>](#-live-server) -
+    - [<b>markdownlint</b>](#-markdownlint) -
+    - [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
+    - [<b>Material Icon Theme</b>](#-material-icon-theme) -
+    - [<b>Prettier - Code formatter</b>](#-prettier) -
+    - [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#-tabnine) -
+    - [<b>Todo Tree</b>](#-todo-tree) -
+    - [<b>YAML</b>](#-yaml) - my favorite markup language!
+- [<b>Thanks</b>](#thanks)<br>
+<br>
+<br>
+
+<!--------------------------------------------------->
+
+## Background
+
+![vscode-logo](images/vscode-10.png) <b>Visual Studio Code has become my primary programming environment.</b>
+
+In order to get all my VS Code extensions sorted, figuring out exactly which ones I use and which I should uninstall until I actually need them, I decided to create this simple repository.
+
+There are a lot of great extensions. As I discover new ones I will add them to this list.
+
+Please feel free to `@me` with any recommendations of your favorite VSC extensions and I'll be sure to check them out!
 <br>
 <br>
 <br>
@@ -39,7 +56,6 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 [Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 Visual Studio Code extension to quickly generate docstrings for python functions.
-
 
 - Quickly generate a docstring snippet that can be tabbed through.
 - Choose between several different types of docstring formats.
@@ -149,3 +165,8 @@ With this extension, you will be able to categorize your annotations into:
 ## ![yaml-logo](images/yaml.png) YAML
 
 - YAML Language Support by Red Hat
+
+<!--------------------------------------------------->
+
+## Thanks
+
