@@ -12,7 +12,7 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 
 - [<b>Background</b>](#background)
 - <b>Extensions:</b>
-  - [<b>autoDocstring</b>](# autodocstring) - quickly generate docstrings for python functions
+  - [<b>autoDocstring</b>](#-autodocstring) - quickly generate docstrings for python functions
   - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired HTML/XML tag
   - [<b>Better Comments</b>](#-better-comments) - categorize your annotations
   - [<b>Bookmarks</b>](#-bookmarks) -
