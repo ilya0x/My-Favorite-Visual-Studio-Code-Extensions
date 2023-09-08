@@ -44,6 +44,9 @@ There are a lot of great extensions. As I discover new ones I will add them to t
 Please feel free to `@me` with any recommendations of your favorite VSC extensions and I'll be sure to check them out!
 <br>
 <br>
+
+[Back to Table of Contents](#table-of-contents)
+<br>
 <br>
 
 
@@ -114,9 +117,19 @@ With this extension, you will be able to categorize your annotations into:
 
 ## ![bookmarks-logo](images/bookmarks.png) Bookmarks
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## ![code-spell-checker-logo](images/code-spell-checker.png) Code Spell Checker
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
 
 <!--------------------------------------------------->
 
@@ -124,25 +137,55 @@ With this extension, you will be able to categorize your annotations into:
 
 - I prefer the Dark Default color theme
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## ![html-end-tag-labels-logo](images/html-end-tag-labels.png) HTML End Tag Labels
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
 
 <!--------------------------------------------------->
 
 ## ![live-server-logo](images/live-server.png) Live Server
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## ![markdownlint-logo](images/markdownlint.png) markdownlint
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
 
 <!--------------------------------------------------->
 
 ## ![markdown-preview-enhanced-logo](images/markdown-preview-enhanced.png) Markdown Preview Enhanced
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## ![material-icon-theme-logo](images/material-icon-theme.png) Material Icon Theme
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
 
 <!--------------------------------------------------->
 
@@ -150,15 +193,30 @@ With this extension, you will be able to categorize your annotations into:
 
 - Code formatter
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## ![tabnine-logo](images/tabnine.png) Tabnine
 
 - AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## ![todo-tree-logo](images/todo-tree.png) Todo Tree
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
 
 <!--------------------------------------------------->
 
@@ -166,7 +224,17 @@ With this extension, you will be able to categorize your annotations into:
 
 - YAML Language Support by Red Hat
 
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
 <!--------------------------------------------------->
 
 ## Thanks
 
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
