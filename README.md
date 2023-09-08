@@ -50,7 +50,7 @@ Visual Studio Code extension to quickly generate docstrings for python functions
 
 ![autodocstring](images/autodocstring-demo.gif)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents) | [Back to Top](#my-favorite-vscode-logo-visual-studio-code-extensions)
 
 <!--------------------------------------------------->
 
@@ -68,7 +68,7 @@ Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
 ![auto-rename-tag](images/auto-rename-tag-demo.gif)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents) | [Back to Top](#my-favorite-vscode-logo-visual-studio-code-extensions)
 
 <!--------------------------------------------------->
 
@@ -92,7 +92,7 @@ With this extension, you will be able to categorize your annotations into:
 
 ![better-comments-code](images/better-comments-code-example.png)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents) | [Back to Top](#my-favorite-vscode-logo-visual-studio-code-extensions)
 
 <!--------------------------------------------------->
 
