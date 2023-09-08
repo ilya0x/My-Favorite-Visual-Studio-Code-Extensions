@@ -50,15 +50,40 @@ With this extension, you will be able to categorize your annotations into:
 
 <!--------------------------------------------------->
 
+## ![autodocstring-logo](images/autodocstring.png) autoDocstring
+
+[by Nils Werner](https://github.com/NilsJPWerner)
+
+[Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+
+Visual Studio Code extension to quickly generate docstrings for python functions.
+
+
+- Quickly generate a docstring snippet that can be tabbed through.
+- Choose between several different types of docstring formats.
+- Infers parameter types through pep484 type hints, default values, and var names.
+- Support for args, kwargs, decorators, errors, and parameter types
+<br>
+<br>
+
+![autodocstring](images/autodocstring-demo.gif)
+
+<!--------------------------------------------------->
+
+## ![auto-rename-tag-logo](images/auto-rename-tag.png) Auto Rename Tag
+
+<!--------------------------------------------------->
 ## ![bookmarks-logo](images/bookmarks.png) Bookmarks
 
 <!--------------------------------------------------->
 
-## ![todo-tree-logo](images/todo-tree.png) Todo Tree
+## ![code-spell-checker-logo](images/code-spell-checker.png) Code Spell Checker
 
 <!--------------------------------------------------->
 
-## ![code-spell-checker-logo](images/code-spell-checker.png) Code Spell Checker
+## ![github-theme-logo](images/github-theme.png) GitHub Theme
+
+- I prefer the Dark Default color theme
 
 <!--------------------------------------------------->
 
@@ -71,6 +96,10 @@ With this extension, you will be able to categorize your annotations into:
 <!--------------------------------------------------->
 
 ## ![markdownlint-logo](images/markdownlint.png) markdownlint
+
+<!--------------------------------------------------->
+
+## ![markdown-preview-enhanced-logo](images/markdown-preview-enhanced.png) Markdown Preview Enhanced
 
 <!--------------------------------------------------->
 
@@ -90,23 +119,7 @@ With this extension, you will be able to categorize your annotations into:
 
 <!--------------------------------------------------->
 
-## ![markdown-preview-enhanced-logo](images/markdown-preview-enhanced.png) Markdown Preview Enhanced
-
-<!--------------------------------------------------->
-
-## ![auto-rename-tag-logo](images/auto-rename-tag.png) Auto Rename Tag
-
-<!--------------------------------------------------->
-
-## ![autodocstring-logo](images/autodocstring.png) autoDocstring
-
-- Python Docstring Generator
-
-<!--------------------------------------------------->
-
-## ![github-theme-logo](images/github-theme.png) GitHub Theme
-
-- I prefer the Dark Default color theme
+## ![todo-tree-logo](images/todo-tree.png) Todo Tree
 
 <!--------------------------------------------------->
 
