@@ -12,21 +12,21 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 
 - [<b>Background</b>](#background)
 - <b>Extensions:</b>
-    - [<b>autoDocstring - Python Docstring Generator</b>](#-autodocstring) - quickly generate docstrings for python functions
-    - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired HTML/XML tag
-    - [<b>Better Comments</b>](#-better-comments) - categorize your annotations
-    - [<b>Bookmarks</b>](#-bookmarks) -
-    - [<b>Code Spell Checker</b>](#-code-spell-checker) -
-    - [<b>GitHub Theme</b>](#-github-theme) -
-    - [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) -
-    - [<b>Live Server</b>](#-live-server) -
-    - [<b>markdownlint</b>](#-markdownlint) -
-    - [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
-    - [<b>Material Icon Theme</b>](#-material-icon-theme) -
-    - [<b>Prettier - Code formatter</b>](#-prettier) -
-    - [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#-tabnine) -
-    - [<b>Todo Tree</b>](#-todo-tree) -
-    - [<b>YAML</b>](#-yaml) - my favorite markup language!
+  - [<b>autoDocstring</b>](# autodocstring) - quickly generate docstrings for python functions
+  - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired HTML/XML tag
+  - [<b>Better Comments</b>](#-better-comments) - categorize your annotations
+  - [<b>Bookmarks</b>](#-bookmarks) -
+  - [<b>Code Spell Checker</b>](#-code-spell-checker) -
+  - [<b>GitHub Theme</b>](#-github-theme) -
+  - [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) -
+  - [<b>Live Server</b>](#-live-server) -
+  - [<b>markdownlint</b>](#-markdownlint) -
+  - [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
+  - [<b>Material Icon Theme</b>](#-material-icon-theme) -
+  - [<b>Prettier - Code formatter</b>](#-prettier) -
+  - [<b>Tabnine: AI Autocomplete & Chat for Javascript, Python, Typescript, PHP, Go, Java</b>](#-tabnine) -
+  - [<b>Todo Tree</b>](#-todo-tree) -
+  - [<b>YAML</b>](#-yaml) - my favorite markup language!
 - [<b>Thanks</b>](#thanks)<br>
 <br>
 <br>
@@ -49,7 +49,6 @@ Please feel free to `@me` with any recommendations of your favorite VSC extensio
 <br>
 <br>
 
-
 <!--------------------------------------------------->
 
 ## ![autodocstring-logo](images/autodocstring.png) autoDocstring
@@ -70,6 +69,8 @@ Visual Studio Code extension to quickly generate docstrings for python functions
 ![autodocstring](images/autodocstring-demo.gif)
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -88,6 +89,8 @@ Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 ![auto-rename-tag](images/auto-rename-tag-demo.gif)
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -112,6 +115,8 @@ With this extension, you will be able to categorize your annotations into:
 ![better-comments-code](images/better-comments-code-example.png)
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -121,6 +126,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -130,6 +137,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -141,6 +150,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -150,6 +161,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -159,6 +172,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -168,6 +183,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -177,6 +194,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -186,6 +205,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -197,6 +218,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -208,6 +231,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -217,6 +242,8 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
@@ -228,11 +255,12 @@ With this extension, you will be able to categorize your annotations into:
 <br>
 
 [Back to Table of Contents](#table-of-contents)
+<br>
+<br>
 
 <!--------------------------------------------------->
 
 ## Thanks
-
 
 <br>
 <br>
