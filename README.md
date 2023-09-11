@@ -4,7 +4,9 @@
 
 Complete list of all my favorite Visual Studio Code extensions that I use all the time.
 
-> This list will be updated on a regular basis as I discover new useful extensions.
+> This list will be updated on a regular basis as I discover new useful extensions.<br>
+<br>
+> There are 15 outlined here - I currently have 65 extentions installed, so I still have quite a few to go through...
 
 <!--------------------------------------------------->
 
