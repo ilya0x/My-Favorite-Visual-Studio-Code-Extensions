@@ -2,7 +2,8 @@
 
 ![banner](images/banner.png)
 
-Complete list of all my favorite Visual Studio Code extensions that I use all the time.
+Complete list of all my favorite Visual Studio Code extensions that I use all
+the time.
 
 > This list will be updated on a regular basis as I discover new useful extensions.
 
@@ -12,20 +13,28 @@ Complete list of all my favorite Visual Studio Code extensions that I use all th
 
 - [<b>Background</b>](#background)
 - <b>Extensions:</b>
-  - [<b>autoDocstring</b>](#-autodocstring) - quickly generate docstrings for python functions
-  - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired HTML/XML tag
+  - [<b>autoDocstring</b>](#-autodocstring) - quickly generate docstrings for
+    python functions
+  - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired
+    HTML/XML tag
   - [<b>Better Comments</b>](#-better-comments) - categorize your annotations
   - [<b>Bookmarks</b>](#-bookmarks) - mark lines and jump to them
-  - [<b>Code Spell Checker</b>](#-code-spell-checker) - spelling checker for source code
+  - [<b>Code Spell Checker</b>](#-code-spell-checker) - spelling checker for
+    source code
   - [<b>GitHub Theme</b>](#-github-theme) - GitHub colors theme
   - [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) - labels HTML end tags
-  - [<b>Live Server</b>](#-live-server) - launch a local Server for static & dynamic pages
+  - [<b>Live SASS Compiler</b>](#-live-sass-compiler) - compile SASS or SCSS to
+    CSS at realtime.
+  - [<b>Live Server</b>](#-live-server) - launch a local Server for static &
+    dynamic pages
   - [<b>markdownlint</b>](#-markdownlint) - Markdown linting and style checking
-  - [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) - enhancement of Markdown preview
+  - [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
+    enhancement of Markdown preview
   - [<b>Material Icon Theme</b>](#-material-icon-theme) - Material design icons
   - [<b>Prettier - Code formatter</b>](#-prettier) - an opinionated code formatter
   - [<b>Tabnine</b>](#-tabnine) - AI powered autocomplete & chat
-  - [<b>Todo Tree</b>](#-todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view
+  - [<b>Todo Tree</b>](#-todo-tree) - Show TODO, FIXME, etc. comment tags in a
+    tree view
   - [<b>YAML</b>](#-yaml) - YAML language support by Red Hat
 - [<b>Thanks</b>](#thanks)<br>
 <br>
@@ -209,7 +218,7 @@ The goal of this spell checker is to help catch common spelling errors while kee
 
 ## ![html-end-tag-labels-logo](images/html-end-tag-labels.png) HTML End Tag Labels
 
-[by  Ante Primorac](https://github.com/anteprimorac)
+[by Ante Primorac](https://github.com/anteprimorac)
 
 [Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
 
@@ -220,6 +229,40 @@ Whether you're building web applications, working on frontend frameworks, or dev
 <br>
 
 ![html-end-tag-labels-example](images/html-end-tag-labels-example.png)
+
+<br>
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+<br>
+<br>
+
+<!--------------------------------------------------->
+
+## ![live-sass-compiler](images/live-sass-compiler.png) Live SASS Compiler
+
+[by Glenn](https://github.com/glenn2223)
+
+[Visual Studio Marketplace page](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
+
+Compile SASS and SCSS files to CSS at <i>real-time</i>.
+
+- Live SASS & SCSS compile.
+- Customizable file location of exported CSS.
+- Customizable exported CSS style (`expanded`, `compressed`).
+- Customizable extension name (`.css` or `.min.css`).
+- Quick status bar control.
+- Exclude specific folders by settings.
+- Autoprefix support (See [settings section](https://github.com/glenn2223/vscode-live-sass-compiler/blob/HEAD/docs/settings.md#livesasscompilesettingsautoprefix))
+<br>
+<br>
+
+Click to `Watch Sass` from the status bar to turn on the live compilation and then
+click to `Stop Watching Sass` from the status bar to turn off live compilation.
+<br>
+
+![lsc-statusbar](images/lsc-statusbar.jpg)
+
 
 <br>
 <br>
@@ -433,22 +476,22 @@ This extension provides comprehensive YAML Language support to VS Code, via the 
 <b>Features:</b>
 
 - YAML validation:
-    - Detects whether the entire file is valid yaml
-    - Detects errors such as:
-        - Node is not found
-        - Node has an invalid key node type
-        - Node has an invalid type
-        - Node is not a valid child node
+  - Detects whether the entire file is valid yaml
+  - Detects errors such as:
+    - Node is not found
+    - Node has an invalid key node type
+    - Node has an invalid type
+    - Node is not a valid child node
 - Document Outlining (Ctrl + Shift + O):
-    - Provides the document outlining of all completed nodes in the file
+  - Provides the document outlining of all completed nodes in the file
 - Auto completion (Ctrl + Space):
-    - Auto completes on all commands
-    - Scalar nodes autocomplete to schema's defaults if they exist
+  - Auto completes on all commands
+  - Scalar nodes autocomplete to schema's defaults if they exist
 - Hover support:
-    - Hovering over a node shows description if provided by schema
+  - Hovering over a node shows description if provided by schema
 - Formatter:
-    - Allows for formatting the current file
-    - On type formatting auto indent for array items
+  - Allows for formatting the current file
+  - On type formatting auto indent for array items
 
 <br>
 
