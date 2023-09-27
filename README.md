@@ -17,22 +17,22 @@ quite a few to go through...
 - [My Favorite  Visual Studio Code Extensions](#my-favorite--visual-studio-code-extensions)
   - [Table of Contents](#table-of-contents)
   - [Background](#background)
-  - [ autoDocstring](#-autodocstring)
-  - [ Auto Rename Tag](#-auto-rename-tag)
-  - [ Better Comments](#-better-comments)
-  - [ Bookmarks](#-bookmarks)
-  - [ Code Spell Checker](#-code-spell-checker)
-  - [ GitHub Theme](#-github-theme)
-  - [ HTML End Tag Labels](#-html-end-tag-labels)
-  - [ Live SASS Compiler](#-live-sass-compiler)
-  - [ Live Server](#-live-server)
-  - [ markdownlint](#-markdownlint)
-  - [ Markdown Preview Enhanced](#-markdown-preview-enhanced)
-  - [ Material Icon Theme](#-material-icon-theme)
-  - [ Prettier](#-prettier)
-  - [ Tabnine](#-tabnine)
-  - [ Todo Tree](#-todo-tree)
-  - [ YAML](#-yaml)
+  - [autoDocstring](#autodocstring)
+  - [Auto Rename Tag](#auto-rename-tag)
+  - [Better Comments](#better-comments)
+  - [Bookmarks](#bookmarks)
+  - [Code Spell Checker](#code-spell-checker)
+  - [GitHub Theme](#github-theme)
+  - [HTML End Tag Labels](#html-end-tag-labels)
+  - [Live SASS Compiler](#live-sass-compiler)
+  - [Live Server](#live-server)
+  - [markdownlint](#markdownlint)
+  - [Markdown Preview Enhanced](#markdown-preview-enhanced)
+  - [Material Icon Theme](#material-icon-theme)
+  - [Prettier](#prettier)
+  - [Tabnine](#tabnine)
+  - [Todo Tree](#todo-tree)
+  - [YAML](#yaml)
   - [Thanks](#thanks)
 
 <br>
@@ -63,7 +63,9 @@ extensions and I'll be sure to check them out! <br>
 
 <!--------------------------------------------------->
 
-## ![autodocstring-logo](images/autodocstring.png) autoDocstring
+## autoDocstring
+
+![autodocstring-logo](images/autodocstring.png)
 
 [by Nils Werner](https://github.com/NilsJPWerner)
 
@@ -87,7 +89,9 @@ Visual Studio Code extension to quickly generate docstrings for python functions
 
 <!--------------------------------------------------->
 
-## ![auto-rename-tag-logo](images/auto-rename-tag.png) Auto Rename Tag
+## Auto Rename Tag
+
+![auto-rename-tag-logo](images/auto-rename-tag.png)
 
 [by Jun Han](https://github.com/formulahendry)
 
@@ -108,7 +112,9 @@ Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 
 <!--------------------------------------------------->
 
-## ![better-comments-logo](images/better-comments.png) Better Comments
+## Better Comments
+
+![better-comments-logo](images/better-comments.png)
 
 [by Aaron Bond](https://aaronbond.co.uk/)
 
@@ -135,7 +141,9 @@ annotations into:
 
 <!--------------------------------------------------->
 
-## ![bookmarks-logo](images/bookmarks.png) Bookmarks
+## Bookmarks
+
+![bookmarks-logo](images/bookmarks.png)
 
 [by Alessandro Fragnani](https://github.com/alefragnani)
 
@@ -184,7 +192,9 @@ them. It shows a line preview and temporarily scroll to its position.
 
 <!--------------------------------------------------->
 
-## ![code-spell-checker-logo](images/code-spell-checker.png) Code Spell Checker
+## Code Spell Checker
+
+![code-spell-checker-logo](images/code-spell-checker.png)
 
 [by  Street Side Software](https://github.com/streetsidesoftware)
 
@@ -207,7 +217,9 @@ keeping the number of false positives low. <br>
 
 <!--------------------------------------------------->
 
-## ![github-theme-logo](images/github-theme.png) GitHub Theme
+## GitHub Theme
+
+![github-theme-logo](images/github-theme.png)
 
 [by Primer](https://github.com/primer)
 
@@ -228,7 +240,9 @@ keeping the number of false positives low. <br>
 
 <!--------------------------------------------------->
 
-## ![html-end-tag-labels-logo](images/html-end-tag-labels.png) HTML End Tag Labels
+## HTML End Tag Labels
+
+![html-end-tag-labels-logo](images/html-end-tag-labels.png)
 
 [by Ante Primorac](https://github.com/anteprimorac)
 
@@ -258,7 +272,9 @@ user-friendly extension.
 
 <!--------------------------------------------------->
 
-## ![live-sass-compiler](images/live-sass-compiler.png) Live SASS Compiler
+## Live SASS Compiler
+
+![live-sass-compiler](images/live-sass-compiler.png)
 
 [by Glenn](https://github.com/glenn2223)
 
@@ -291,7 +307,9 @@ click to `Stop Watching Sass` from the status bar to turn off live compilation.
 
 <!--------------------------------------------------->
 
-## ![live-server-logo](images/live-server.png) Live Server
+## Live Server
+
+![live-server-logo](images/live-server.png)
 
 [by  Ritwick Dey](https://github.com/ritwickdey)
 
@@ -323,7 +341,9 @@ Launch a development local Server with live reload feature for static & dynamic 
 
 <!--------------------------------------------------->
 
-## ![markdownlint-logo](images/markdownlint.png) markdownlint
+## markdownlint
+
+![markdownlint-logo](images/markdownlint.png)
 
 [by  David Anson](https://github.com/DavidAnson)
 
@@ -357,7 +377,9 @@ the same engine and can be integrated with project workflows. <br>
 
 <!--------------------------------------------------->
 
-## ![markdown-preview-enhanced-logo](images/markdown-preview-enhanced.png) Markdown Preview Enhanced
+## Markdown Preview Enhanced
+
+![markdown-preview-enhanced-logo](images/markdown-preview-enhanced.png)
 
 [by  Yiyi Wang](https://github.com/shd101wyy)
 
@@ -387,7 +409,9 @@ Markdown](http://rmarkdown.rstudio.com/).
 
 <!--------------------------------------------------->
 
-## ![material-icon-theme-logo](images/material-icon-theme.png) Material Icon Theme
+## Material Icon Theme
+
+![material-icon-theme-logo](images/material-icon-theme.png)
 
 [by  Philipp Kief](https://github.com/PKief)
 
@@ -410,7 +434,9 @@ Markdown](http://rmarkdown.rstudio.com/).
 
 <!--------------------------------------------------->
 
-## ![prettier-logo](images/prettier.png) Prettier
+## Prettier
+
+![prettier-logo](images/prettier.png)
 
 [by Prettier](https://github.com/prettier)
 
@@ -445,7 +471,9 @@ Because Prettier is the only “style guide” that is fully automatic.
 
 <!--------------------------------------------------->
 
-## ![tabnine-logo](images/tabnine.png) Tabnine
+## Tabnine
+
+![tabnine-logo](images/tabnine.png)
 
 [by Tabnine](https://github.com/codota)
 
@@ -486,7 +514,9 @@ Typescript c/c++ and more.
 
 <!--------------------------------------------------->
 
-## ![todo-tree-logo](images/todo-tree.png) Todo Tree
+## Todo Tree
+
+![todo-tree-logo](images/todo-tree.png)
 
 [by Nigel Scott](https://github.com/Gruntfuggly)
 
@@ -520,7 +550,9 @@ configuration examples.</i>
 
 <!--------------------------------------------------->
 
-## ![yaml-logo](images/yaml-30.png) YAML
+## YAML
+
+![yaml-logo](images/yaml-30.png)
 
 [by Red Hat Developer](https://github.com/redhat-developer)
 
