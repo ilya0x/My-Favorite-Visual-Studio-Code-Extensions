@@ -5,39 +5,36 @@
 Complete list of all my favorite Visual Studio Code extensions that I use all
 the time.
 
-> This list will be updated on weekly basis as I sort through extentions I have installed and discover new useful ones.<br>
-<br>There are 15 outlined here - I currently have 65 installed, so I still have quite a few to go through...
+> This list will be updated on weekly basis as I sort through extentions I have
+> installed and discover new useful ones.<br>
+<br>There are 15 outlined here - I currently have 65 installed, so I still have
+quite a few to go through...
 
 <!--------------------------------------------------->
 
 ## Table of Contents
 
-- [<b>Background</b>](#background)
-- <b>Extensions:</b>
-  - [<b>autoDocstring</b>](#-autodocstring) - quickly generate docstrings for
-    python functions
-  - [<b>Auto Rename Tag</b>](#-auto-rename-tag) - automatically rename paired
-    HTML/XML tag
-  - [<b>Better Comments</b>](#-better-comments) - categorize your annotations
-  - [<b>Bookmarks</b>](#-bookmarks) - mark lines and jump to them
-  - [<b>Code Spell Checker</b>](#-code-spell-checker) - spelling checker for
-    source code
-  - [<b>GitHub Theme</b>](#-github-theme) - GitHub colors theme
-  - [<b>HTML End Tag Labels</b>](#-html-end-tag-labels) - labels HTML end tags
-  - [<b>Live SASS Compiler</b>](#-live-sass-compiler) - compile SASS or SCSS to
-    CSS at realtime.
-  - [<b>Live Server</b>](#-live-server) - launch a local Server for static &
-    dynamic pages
-  - [<b>markdownlint</b>](#-markdownlint) - Markdown linting and style checking
-  - [<b>Markdown Preview Enhanced</b>](#-markdown-preview-enhanced) -
-    enhancement of Markdown preview
-  - [<b>Material Icon Theme</b>](#-material-icon-theme) - Material design icons
-  - [<b>Prettier - Code formatter</b>](#-prettier) - an opinionated code formatter
-  - [<b>Tabnine</b>](#-tabnine) - AI powered autocomplete & chat
-  - [<b>Todo Tree</b>](#-todo-tree) - Show TODO, FIXME, etc. comment tags in a
-    tree view
-  - [<b>YAML</b>](#-yaml) - YAML language support by Red Hat
-- [<b>Thanks</b>](#thanks)<br>
+- [My Favorite  Visual Studio Code Extensions](#my-favorite--visual-studio-code-extensions)
+  - [Table of Contents](#table-of-contents)
+  - [Background](#background)
+  - [ autoDocstring](#-autodocstring)
+  - [ Auto Rename Tag](#-auto-rename-tag)
+  - [ Better Comments](#-better-comments)
+  - [ Bookmarks](#-bookmarks)
+  - [ Code Spell Checker](#-code-spell-checker)
+  - [ GitHub Theme](#-github-theme)
+  - [ HTML End Tag Labels](#-html-end-tag-labels)
+  - [ Live SASS Compiler](#-live-sass-compiler)
+  - [ Live Server](#-live-server)
+  - [ markdownlint](#-markdownlint)
+  - [ Markdown Preview Enhanced](#-markdown-preview-enhanced)
+  - [ Material Icon Theme](#-material-icon-theme)
+  - [ Prettier](#-prettier)
+  - [ Tabnine](#-tabnine)
+  - [ Todo Tree](#-todo-tree)
+  - [ YAML](#-yaml)
+  - [Thanks](#thanks)
+
 <br>
 <br>
 
